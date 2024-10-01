@@ -10,9 +10,9 @@ public class Main {
         } else {
             bonus = 0;
         }
-            int balance = startingScore + replenishment;
+        int balance = startingScore + replenishment;
 
-            System.out.println("Итоговый счет:" + balance);
-            System.out.println("Бонусы:" + bonus);
-        }
+        System.out.println("Итоговый счет:" + balance);
+        System.out.println("Бонусы:" + bonus);
     }
+}
